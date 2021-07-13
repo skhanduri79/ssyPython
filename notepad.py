@@ -70,6 +70,7 @@ def pasteFile():
 
 def aboutApp():
     showinfo("Notepad", "Notepad by Sakshi")
+# this is an trial comment
 
 
 if __name__ == "__main__":
